@@ -1,5 +1,6 @@
 # Cryptography
 ##Algorithms in Cryptography
+
 ###Playfair Key Matrix
 * a 5X5 matrix of letters based on a keyword
 * fill in letters of keyword (sans duplicates)
